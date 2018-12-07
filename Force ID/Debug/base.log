@@ -1,0 +1,18 @@
+﻿  Jogo.cpp
+  Gerando Código...
+  Compilando...
+  main.cpp
+  Menus.cpp
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(9): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(70): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(71): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(72): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(73): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(74): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(75): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(76): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(155): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(165): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+c:\users\sr.tech\source\repos\projetos c++\libunicornio-master\projetos\force id\menus.cpp(209): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+  Gerando Código...
+  base.vcxproj -> C:\Users\Sr.Tech\source\repos\Projetos C++\libUnicornio-master\projetos\Force ID\bin\base-debug.exe

@@ -1,0 +1,13 @@
+ sprite_sheet main assets/Menus/Menu.png 0 0
+ sprite_sheet menuFinal assets/Menus/MenuFinal.png 0 0
+ sprite_sheet BJogar assets/Menus/BotaoJogar.png 0 0
+ sprite_sheet BNovoJ assets/Menus/BotaoNovoJogo.png 0 0
+ sprite_sheet BCarregarJ assets/Menus/BotaoCarregarJogo.png 0 0
+ sprite_sheet BRank assets/Menus/BotaoRank.png 0 0
+ sprite_sheet BCreditos assets/Menus/BotaoCreditos.png 0 0
+ sprite_sheet BSair assets/Menus/BotaoSair.png 0 0
+ sprite_sheet BVoltar assets/Menus/BotaoVoltar.png 0 0
+ sprite_sheet mapa assets/SpriteSheets/mapa.png 0 0
+ sprite_sheet Jogador assets/SpriteSheets/Nave.png 1 2
+ sprite_sheet inimigo assets/SpriteSheets/Inimigo.png 1 2
+ sprite_sheet inimigoT assets/SpriteSheets/Inimigo.png 1 2

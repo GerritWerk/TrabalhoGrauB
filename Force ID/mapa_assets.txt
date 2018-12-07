@@ -1,0 +1,2 @@
+sprite_sheet Jogador assets/SpriteSheets/Nave.png 1 2
+sprite_sheet inimigo assets/SpriteSheets/Inimigo.png 1 2
